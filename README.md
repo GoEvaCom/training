@@ -12,7 +12,7 @@
 ## EOS Tutorials
  - Go through the [Eos Wiki](https://github.com/EOSIO/eos/wiki) (tutorials at the end too)
  - Presentation of the EVA contract.
-
+![](datamodel.png)
 
 ## React Native
  - React Native Tutorials [Link](https://facebook.github.io/react-native/docs/tutorial.html)
