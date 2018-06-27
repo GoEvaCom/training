@@ -15,6 +15,7 @@
 ![](datamodel.png)
 
 ## React Native
+ - Blank project [Link](https://medium.com/@filipvitas/setup-react-native-app-from-scratch-7f42cbeb4b01)
  - React Native Tutorials [Link](https://facebook.github.io/react-native/docs/tutorial.html)
  - Map React-Native app challenge
  - Presentation of the EVA client.
