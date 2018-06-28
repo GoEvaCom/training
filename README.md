@@ -20,7 +20,7 @@
  - Map React-Native app challenge
  - Presentation of the EVA client.
 
-## Setup EVA development environment
+## Tutorail environment
 ### TUTORIAL EOS
 ```
 docker-compose build
